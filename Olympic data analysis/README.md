@@ -6,6 +6,8 @@ This project is an interactive data analysis application built using Streamlit.
 It analyzes historical Summer Olympics data and provides visual insights into medal trends, country performance, athlete statistics, and sport participation patterns.
 The goal of this project is to explore data visualization, filtering, and dashboard development using Python and Streamlit.
 
+### Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+
 ## Features
 
 ### 1. Medal Tally
