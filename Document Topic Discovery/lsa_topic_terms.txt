@@ -1,0 +1,27 @@
+Components: 50
+==================================================
+Topic 1: car, space, people, like, just, don, think, know, new, time
+Topic 2: space, nasa, shuttle, launch, orbit, lunar, moon, station, earth, program
+Topic 3: car, space, cars, engine, thanks, dealer, nasa, shuttle, launch, mail
+Topic 4: men, just, gay, homosexual, edu, sexual, yeah, space, sex, people
+Topic 5: thanks, mail, address, men, car, interested, president, edu, gay, clinton
+
+
+Components: 100
+==================================================
+Topic 1: car, space, people, like, just, don, think, know, new, time
+Topic 2: space, nasa, shuttle, launch, orbit, lunar, moon, station, earth, program
+Topic 3: car, space, cars, engine, thanks, dealer, nasa, shuttle, launch, mail
+Topic 4: men, just, gay, homosexual, edu, sexual, yeah, space, people, sex
+Topic 5: thanks, mail, address, men, car, interested, edu, president, gay, clinton
+
+
+Components: 200
+==================================================
+Topic 1: car, space, people, like, just, don, think, know, new, time
+Topic 2: space, nasa, shuttle, launch, orbit, lunar, moon, station, earth, program
+Topic 3: car, space, cars, engine, thanks, dealer, nasa, shuttle, launch, mail
+Topic 4: men, just, gay, homosexual, edu, sexual, yeah, space, people, sex
+Topic 5: thanks, mail, address, men, car, interested, edu, president, gay, clinton
+
+
